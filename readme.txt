@@ -3,4 +3,6 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick.
-fuck dgl is quick & simple.
+<<<<<<< HEAD
+fuck dgl is quick  AND simple.
+>>>>>>> feature1
